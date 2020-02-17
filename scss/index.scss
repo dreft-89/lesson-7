@@ -1,0 +1,11 @@
+@import './reset';
+
+$body-color: red;
+
+div {
+  background-color: #black;
+}
+
+body {
+  background-color: $body-color;
+}

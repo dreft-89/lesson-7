@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/dreft-89/lesson-7#readme",
   "dependencies": {
-    "node-sass": "^4.13.1"
+    "node-sass": "^7.0.0"
   }
 }
